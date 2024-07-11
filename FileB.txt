@@ -1,1 +1,5 @@
 This is FileB, second FIle
+
+new files added
+
+one two three
